@@ -1,0 +1,63 @@
+
+body
+{
+    background-color:rgb(246, 140, 111);
+
+}
+h1{
+    font-size : 40px;
+}
+h2{
+    font-size :30px
+}
+.container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+}
+.main
+{
+    border:5px solid gray;
+    height:150vh;
+    background-color:rgb(244, 234, 247);
+    margin:20px;
+    position: absolute;
+}
+.main-container
+{
+    position: relative;
+}
+.main2
+{   
+    padding-left: 40px;
+    text-align: center;
+}
+
+.main3
+{
+    padding-right: 40px;
+    padding-top: 30px;
+}
+
+#img
+{
+    height: 300px;
+    width: 400px;
+    border: 4px solid green;
+  
+}
+.container1
+{
+    margin : 30px 30px;
+    border: 4px solid green;
+    padding: 10px 10px;
+    color: brown;
+    
+}
+
+.form,list
+{
+    margin-left: 25px;
+}
